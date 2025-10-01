@@ -1,4 +1,4 @@
-# QuickPick — Fullstack Mobile App
+## QuickPick — Fullstack Mobile App
 
 A full-stack mobile application built with **React Native (Expo)** and **Node.js/Express/MongoDB**.  
 The app demonstrates **authentication, CRUD operations, and native device features** (camera/image upload, location).  
