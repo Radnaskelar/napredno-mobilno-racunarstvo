@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo / React Native
+.expo/
+.expo-shared/
+*.expo
+
+# Env
+.env
+.env.local
+.env.*.local
+backend/.env
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
